@@ -1,0 +1,67 @@
+.Cancha{
+  background-color: green;
+  width: 600px;
+  height: 300px;
+  padding: 0px;
+}
+
+.BigWhiteLine {
+  border: 2px white solid;
+  width: 550px;
+  height: 250px;
+  position: relative;
+  top:20px;
+  left: 20px;
+}
+
+.RectangleRight{
+  border: 2px white solid;
+  width: 50px;
+  height: 100px;
+  position: relative;
+  top: 69px;
+  right: 2px;
+}
+
+.RectangleLeft{
+  border: 2px white solid;
+  width: 50px;
+  height: 100px;
+  position: relative;
+  top: -35px;
+  right: -498px;
+}
+
+.Circle{
+  border-radius: 200px 200px 200px 200px;
+  border:2px white solid;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 139px;
+  left: 225px;
+}
+
+.Circle img{
+  height: 18px;
+   width: 18px;
+   position: relative;
+   bottom: 43px;
+   left:66px;
+}
+
+.RectangleLeft img{
+  height: 18px;
+  width: 18px;
+  position: relative;
+  top:73px;
+  right: 25px;
+}
+
+.RectangleRight img{
+  height: 18px;
+  width: 18px;
+  position: relative;
+  bottom: 1px;
+  left: 38px;
+}
